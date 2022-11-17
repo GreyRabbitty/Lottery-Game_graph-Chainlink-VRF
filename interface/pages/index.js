@@ -335,7 +335,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Your Name</footer>
+      <footer className={styles.footer}>Made with &#10084; by <a href="https://www.linkedin.com/in/meharab124/">Meharab</a></footer>
     </div>
   );
 }
