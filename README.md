@@ -50,3 +50,9 @@ There are couple of things that are next for this project e.g.
 * implementing NFTs as entry fees
 * Deploying this project in multiple network
 etc.
+
+## Presentation 
+- [Google Slides](https://docs.google.com/presentation/d/1FWDcRKuZdNIZo8QHzRUnMHrqR39SpbpfKDbzQVJ3mPc/edit?usp=sharing)
+- [Loom](https://www.loom.com/share/53d33bfd7bb446659d810a0ad05d4fc1)
+- [YouTube](https://youtu.be/ys7TiuJOKEU)
+- [Prezi](https://prezi.com/i/view/lt65g2gudJHCXZjKfSaV/)
